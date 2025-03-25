@@ -16,6 +16,8 @@ Este projeto consiste em um formulário de login estilizado com animações inte
 - Design responsivo para diferentes tamanhos de tela.
 - Links para registro e recuperação de senha.
 - Mensagem de alerta caso os campos obrigatórios não sejam preenchidos.
-
+  
 ## Como Visualizar o Projeto
-Você pode acessar o projeto clicando no link abaixo:  
+Você pode acessar o projeto clicando no link abaixo:
+
+[Acesse o Projeto Aqui](https://gamaalice.github.io/loginstyle/)
