@@ -2,22 +2,17 @@
 
 # Login Form Animation
 
-## Descrição
-Este projeto consiste em um formulário de login estilizado com animações interativas, desenvolvido para proporcionar uma experiência moderna e intuitiva aos usuários. Ele utiliza design responsivo e animações para criar uma interface visualmente atraente.
+## Description
+This project consists of a stylized login form with interactive animations, designed to provide users with a modern and intuitive experience. It uses responsive design and animations to create a visually appealing interface.
 
-## Linguagens Utilizadas
-- **HTML**: Estrutura do formulário e organização dos elementos.
-- **CSS**: Estilização e criação de efeitos visuais e animações.
-- **JavaScript**: Implementação de funcionalidades interativas, como validação de campos e alternância de tema.
+## Features
+- Theme toggle (on/off) with animations.
+- Input field validation to prevent incomplete submissions.
+- Responsive design for different screen sizes.
+- Links for registration and password recovery.
+- Alert messages if required fields are not filled.
 
-## Funcionalidades
-- Alternância de tema (on/off) com animações.
-- Validação dos campos de entrada para evitar submissões incompletas.
-- Design responsivo para diferentes tamanhos de tela.
-- Links para registro e recuperação de senha.
-- Mensagem de alerta caso os campos obrigatórios não sejam preenchidos.
-  
-## Como Visualizar o Projeto
-Você pode acessar o projeto clicando no link abaixo:
+## How to View the Project
+You can access the project by clicking the link below:
 
-[Acesse o Projeto Aqui](https://gamaalice.github.io/loginstyle/)
+[Access the Project Here](https://gamaalice.github.io/loginstyle/)
