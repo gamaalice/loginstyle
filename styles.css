@@ -79,10 +79,18 @@ h2 {
 .input-box .icon {
   position: absolute;
   right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
   color: #fff;
   font-size: 1.2em;
-  line-height: 57px;
   transition: .5s ease;
+  pointer-events: none;
+}
+
+.input-box input:focus ~ .icon,
+.input-box input:valid ~ .icon {
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .remember-forgot {
